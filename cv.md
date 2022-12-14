@@ -24,4 +24,4 @@ nothing(
 
 ## Language:
 1. Russian - native
-2. Englsh - A2
+2. English - A2
